@@ -9,7 +9,7 @@
   <a href="https://github.com/achal-00">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge">
   </a>
-  <a href="https://www.frontendmentor.io/profile/Achal-02">
+  <a href="https://www.frontendmentor.io/profile/Achal-00">
     <img src="https://img.shields.io/badge/FEM-blue?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="frontendmentor Badge">
   </a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=Achal-00&style=for-the-badge&color=brightgreen&base=1000" alt="Profile Views"></a>
