@@ -5,7 +5,7 @@
   <a href="mailto:achaldev3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
   </a>
-  <a href="https://www.linkedin.com/in/achal-ab39652b4/">
+  <a href="https://www.linkedin.com/in/-achal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=Achal-00&style=for-the-badge&color=brightgreen" alt="Hits"></a>
